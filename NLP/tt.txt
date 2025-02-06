@@ -1,0 +1,6 @@
+hi hello
+
+
+python -m venv myenv
+myenv\Scripts\activate
+pip install pyttsx3

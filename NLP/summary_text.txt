@@ -1,0 +1,9 @@
+The Sun is a G-type main-sequence star (G2V) at the center of 
+our Solar System, composed primarily of hydrogen (about 73%) 
+and helium (about 25%). It generates energy through nuclear fusion,
+converting hydrogen into helium in its core, which reaches temperatures
+of approximately 15 million degrees Celsius. The Sun's surface 
+temperature is about 5,500 degrees Celsius, and it emits energy
+mainly as visible light and infrared radiation, crucial for life 
+on Earth. It is roughly 1.4 million kilometers in diameter,
+making it about 109 times wider than Earth
